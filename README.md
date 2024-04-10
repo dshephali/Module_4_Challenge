@@ -1,5 +1,5 @@
 # Module_4_Challenge
-# Customer Banking System for Savings & CD Account
+# Fictional e-commerce Business analysis
 
 This Project is to analyse a fictional e-commerce business and identify top clients, their top categories and sub-categories , top 5 client's ordering pattern, analyse shipping price, cost, profit, spending by clients, invoicing to the clients etc.
 
